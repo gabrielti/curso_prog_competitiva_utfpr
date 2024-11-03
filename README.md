@@ -2,7 +2,6 @@ Oficina de Iniciação à Programação Competitiva 2024 - UTFPR
 
 Este repositório reúne os códigos e anotações da Oficina de Iniciação à Programação Competitiva oferecida pela UTFPR (CDP CLASS 2024). A oficina tem duração de 6 semanas, oferece certificado de conclusão, e explora fundamentos da linguagem C++ aplicados à resolução de problemas competitivos.
 
-Objetivo
 O objetivo principal é fornecer uma base sólida em programação competitiva, utilizando as plataformas VJudge e AtCoder para praticar e resolver problemas de dificuldade inicial.
 Conteúdos
 
